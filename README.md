@@ -163,7 +163,7 @@ Last 5 classified packets:
 ![Mininet](Screenshots/mininet.png)
 
 ### POX Controller — Traffic Classification Report
-![POX](Screenshots/pox.png)
+![POX](Screenshots/pox_terminal.png)
 
 ## Performance Observations
 
